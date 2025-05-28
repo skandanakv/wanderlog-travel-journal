@@ -38,14 +38,8 @@ WanderLog is a full-stack travel journal web app that allows users to log, visua
 
  🔄 Project Structure
  
- travel-journal-app/
-├── client/ # React frontend
-├── server/ # Express backend
-├── models/ # Mongoose schemas
-├── routes/ # API endpoints
-├── controllers/ # Logic handling
-├── config/ # Cloudinary, DB, JWT
-└── README.md
+<img width="351" alt="Screenshot 2025-05-29 at 12 13 35 AM" src="https://github.com/user-attachments/assets/3624695d-b2b8-4611-bd73-7c7954db4b2f" />
+
 
 🔓 Future Add-ons
 
