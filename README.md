@@ -87,6 +87,12 @@ cd ../client && npm start
 <img width="566" alt="Screenshot 2025-05-10 at 11 12 40 PM" src="https://github.com/user-attachments/assets/960930ee-55c9-43e3-8815-82e5238525cc" />
 
 <img width="533" alt="Screenshot 2025-05-10 at 11 13 08 PM" src="https://github.com/user-attachments/assets/9447aec0-886d-4ed6-8858-efa479709859" />
+<img width="623" alt="Screenshot 2025-05-10 at 11 19 36 PM" src="https://github.com/user-attachments/assets/d7713348-fe2f-4a53-a79d-de1b737b697c" />
+
+<img width="449" alt="Screenshot 2025-05-12 at 9 46 22 PM" src="https://github.com/user-attachments/assets/025708e6-7e16-407d-a545-0b785a8a3e22" />
+
+<img width="499" alt="Screenshot 2025-05-12 at 9 47 54 PM" src="https://github.com/user-attachments/assets/54c4286e-8a78-452e-8abb-a146554f2135" />
+
 
 
 
