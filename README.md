@@ -78,14 +78,14 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 4. **Run the App**
-
-
-Run the app
 # Start server
 cd server && npm run dev
 
 # Start client
 cd ../client && npm start
+
+<img width="566" alt="Screenshot 2025-05-10 at 11 12 40 PM" src="https://github.com/user-attachments/assets/960930ee-55c9-43e3-8815-82e5238525cc" />
+
 
 📌 Author
 👤 Skandana KV
