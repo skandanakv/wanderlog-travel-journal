@@ -86,6 +86,9 @@ cd ../client && npm start
 
 <img width="566" alt="Screenshot 2025-05-10 at 11 12 40 PM" src="https://github.com/user-attachments/assets/960930ee-55c9-43e3-8815-82e5238525cc" />
 
+<img width="533" alt="Screenshot 2025-05-10 at 11 13 08 PM" src="https://github.com/user-attachments/assets/9447aec0-886d-4ed6-8858-efa479709859" />
+
+
 
 📌 Author
 👤 Skandana KV
