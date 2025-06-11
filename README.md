@@ -105,8 +105,8 @@ cd ../client && npm start
 
 
 
-📌 Author
-👤 Skandana KV
+📌 Author </br>
+👤 Skandana KV</br>
 🚀 Full-Stack Developer | Travel Tech Enthusiast
 
 
