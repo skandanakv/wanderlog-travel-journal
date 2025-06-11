@@ -97,6 +97,9 @@ cd ../client && npm start
 <p align="center">
   <img width="499" alt="Screenshot 5" src="https://github.com/user-attachments/assets/54c4286e-8a78-452e-8abb-a146554f2135" />
 </p>
+<p align="center">
+  <img width="541" alt="Screenshot 2025-06-10 at 12 26 58 AM" src="https://github.com/user-attachments/assets/35947413-e327-4504-b11f-db4840bf884c" />
+</p>
 
 
 
